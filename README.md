@@ -1,4 +1,5 @@
 #The goal of this project is to track the movement of the human eye in real time through a webcam feed (lowres).
+# The goal of this project is to track the movement of the human eye in real time through a webcam feed (lowres).
 
 This task consists of 3 major steps:
   
