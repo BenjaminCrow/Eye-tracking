@@ -1,4 +1,5 @@
 # Real time eye tracking
+<hr>
 
 The goal of this project is to track the movement of the human eye in real time through a webcam feed (lowres).
 
