@@ -11,7 +11,7 @@ This task consists of 3 major steps:
   <li>pupil-detection and tracking the pupil centers;</li>
 </ul>
   
-  
+<hr>
 The C++ source code implements all the above steps with the help of the OpenCV library.
 
 In order to make the source code work, you have to have OpenCV installed and configured in a C++ environment.
